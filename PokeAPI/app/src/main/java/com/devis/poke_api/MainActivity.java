@@ -19,7 +19,7 @@ import com.devis.poke_api.pokeapi.PokeapiService;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "POKEMONES";
+    private static final String TAG = "POKEMON";
 
     private Retrofit retrofit;
 

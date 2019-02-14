@@ -3,8 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/pokemon_gradient"
     tools:context="com.devis.poke_api.MainActivity">
+
+    <!--android:background="@drawable/pokemon_gradient"-->
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/recyclerView"
